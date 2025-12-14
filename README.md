@@ -1,7 +1,7 @@
 # Soramameen
 
 ```ruby
-class Me < Rubyist
+class Me < Ruby
   def initialize
     @philosophy = "Reinventing the wheel 🛠️" 
     @editor     = :neovim
@@ -23,6 +23,7 @@ class Me < Rubyist
 
   def learning_logs
     # My chaotic notes (Japanese)
+    my scrap
   end
 end
 ```
