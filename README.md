@@ -23,7 +23,7 @@ class Me < Rubyist
 
   def learning_logs
     # My chaotic notes (Japanese)
-    "[https://zenn.dev/soramameen/scraps](https://zenn.dev/soramameen/scraps)"
   end
 end
 ```
+my scrap-> [https://zenn.dev/soramameen/scraps](https://zenn.dev/soramameen/scraps)
