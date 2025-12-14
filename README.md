@@ -1,30 +1,16 @@
 # Soramameen
 
-```ruby
-class Me < Ruby
-  def initialize
-    @philosophy = "Reinventing the wheel 🛠️" 
-    @editor     = :neovim
-  end
+## Hi, I'm a Rubyist.
 
-  def current_focus
-    [
-      :self_made_os,
-      :compiler_construction,
-      :network_stack
-    ]
-  end
+I'm a CS student currently diving deep into **low-level programming** to understand how things work under the hood.
 
-  def experience
-    # 4 months full-time internship
-    # I know how to ship products
-    return :shipped_production_code
-  end
+### 🛠️ Reinventing the wheel
+* **System:** Self-made OS, Compiler, Network Stack
+* **Environment:** Vim (Neovim), Terminal, Linux
+* **Web:** Ruby on Rails (5 months internship exp)
 
-  def learning_logs
-    # My chaotic notes (Japanese)
-    my scrap
-  end
-end
-```
-my scrap-> [https://zenn.dev/soramameen/scraps](https://zenn.dev/soramameen/scraps)
+> **Next Chapter:** Joining as a Backend Engineer from Apr 2027.
+
+---
+
+[⚙️ **Dotfiles**](ここにdotfilesのURL) / [📝 **Zenn Scraps** (Notes)](https://zenn.dev/あなたのID/scraps)
