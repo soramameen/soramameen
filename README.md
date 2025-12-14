@@ -2,10 +2,9 @@
 
 ```ruby
 class Me < Rubyist
-  # CS Major & Vimmer. 
   def initialize
-    @philosophy = "Reinventing the wheel 🛠️" # To understand how things work
-    @editor     = :vim # or :neovim
+    @philosophy = "Reinventing the wheel 🛠️" 
+    @editor     = :neovim
   end
 
   def current_focus
